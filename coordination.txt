@@ -1,1 +1,5 @@
-We decide asdgsadgasdgasdgasgd
+* Note here the first names or initials of the members in your group.
+* Also add their github usernames and the role that you decided everyone takes.
+
+* Then document what topic suggestions people made and how you've reached a consensus.
+* List how you decided to split the work: Who writes about what?
