@@ -1,5 +1,5 @@
-* Note here the first names or initials of the members in your group.
-* Also add their github usernames and the role that you decided everyone takes.
+* Kyle, Barbara, Adeola
+* Kiki535 = Kontrolle, Basia-Orange = Infrastruktur, adebade10 = Koordination
 
-* Then document what topic suggestions people made and how you've reached a consensus.
-* List how you decided to split the work: Who writes about what?
+* Unsere erste Idee war Power-Lifting und später dachten wir, wir machen etwas einfacheres wie Schokolade. Jetzt haben wir uns entschieden über Lindt Schokolade zu reden.
+* Kiki535(Kyle) schreibt über die Geschichte von Lindt Schokolade. Basia-Orange(Barbara) schreibt über, wie es gemacht wird. Adebade10(Adeola) schreibt über die verschiedene Geschmacke.
